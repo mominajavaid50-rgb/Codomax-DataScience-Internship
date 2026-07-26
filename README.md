@@ -4,12 +4,15 @@ This repository contains my daily tasks, projects, and learning progress complet
 - ✅ Day 1 – Environment Setup
 - ✅ Day 2 – Python Basics
 - ✅ Day 3 – NumPy Fundamentals
+- ✅ Day 4 – Pandas Basics
 
 ## Tools & Technologies
 - Python
 - VS Code
+- Jupyter Notebook
 - NumPy
+- Pandas
 - Git & GitHub
 
 ## Author
-Momina Javaid
+**Momina Javaid**
