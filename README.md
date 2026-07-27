@@ -5,6 +5,7 @@ This repository contains my daily tasks, projects, and learning progress complet
 - ✅ Day 2 – Python Basics
 - ✅ Day 3 – NumPy Fundamentals
 - ✅ Day 4 – Pandas Basics
+- ✅ Day 5 – Data Cleaning
 
 ## Tools & Technologies
 - Python
