@@ -4,6 +4,12 @@ This repository contains my daily tasks, projects, and hands-on practice complet
 
 ---
 
+# Codomax Data Science Internship
+
+This repository contains my daily tasks, projects, and hands-on practice completed during my **Data Science Internship** at **Codomax Digital Solutions**. Throughout this internship, I am learning Python programming, NumPy, Pandas, data analysis, data cleaning, data visualization, and data handling through practical assignments.
+
+---
+
 ## 📅 Completed Tasks
 
 - ✅ Day 1 – Environment Setup
@@ -16,6 +22,7 @@ This repository contains my daily tasks, projects, and hands-on practice complet
 - ✅ Day 8 – Data Visualization (Matplotlib)
 - ✅ Day 9 – Data Visualization (Seaborn)
 - ✅ Day 10 – Export Data
+- ✅ Day 11 – Business Insights
 
 ---
 
@@ -45,6 +52,7 @@ Day-07_Data_Analysis/
 Day-08_Data_Visualization/
 Day-09_Seaborn_Visualization/
 Day-10_Export_Data/
+Day-11_Business_Insights/
 ```
 
 ---
@@ -62,6 +70,7 @@ Throughout this internship, I have gained practical experience in:
 - Data Visualization using Matplotlib
 - Statistical Visualization using Seaborn
 - Exporting Processed Data
+- Generating Business Insights from Data
 - Git & GitHub for Version Control
 
 ---
@@ -79,4 +88,5 @@ This repository documents my daily internship progress through practical tasks a
 Aspiring Data Scientist | Python Learner | Passionate about Data Analysis, Data Visualization & Machine Learning
 
 ---
+
 ⭐ Thank you for visiting this repository! Feel free to explore my daily learning journey.
