@@ -4,12 +4,6 @@ This repository contains my daily tasks, projects, and hands-on practice complet
 
 ---
 
-# Codomax Data Science Internship
-
-This repository contains my daily tasks, projects, and hands-on practice completed during my **Data Science Internship** at **Codomax Digital Solutions**. Throughout this internship, I am learning Python programming, NumPy, Pandas, data analysis, data cleaning, data visualization, and data handling through practical assignments.
-
----
-
 ## 📅 Completed Tasks
 
 - ✅ Day 1 – Environment Setup
@@ -23,6 +17,8 @@ This repository contains my daily tasks, projects, and hands-on practice complet
 - ✅ Day 9 – Data Visualization (Seaborn)
 - ✅ Day 10 – Export Data
 - ✅ Day 11 – Business Insights
+- ✅ Day 12 – Project Improvement
+- ✅ Day 13 – GitHub Project Upload
 
 ---
 
@@ -53,6 +49,8 @@ Day-08_Data_Visualization/
 Day-09_Seaborn_Visualization/
 Day-10_Export_Data/
 Day-11_Business_Insights/
+Day-12_Project_Improvement/
+Day-13_GitHub/
 ```
 
 ---
@@ -71,13 +69,15 @@ Throughout this internship, I have gained practical experience in:
 - Statistical Visualization using Seaborn
 - Exporting Processed Data
 - Generating Business Insights from Data
+- Improving Project Documentation and Readability
+- Organizing Projects on GitHub
 - Git & GitHub for Version Control
 
 ---
 
 ## 📌 Repository Purpose
 
-This repository documents my daily internship progress through practical tasks and exercises. Each folder contains Jupyter notebooks, datasets (where applicable), exported files, and documentation related to the day's assignment.
+This repository documents my daily internship progress through practical tasks and exercises. Each folder contains Jupyter notebooks, datasets (where applicable), exported files, visualizations, and documentation related to the day's assignment.
 
 ---
 
