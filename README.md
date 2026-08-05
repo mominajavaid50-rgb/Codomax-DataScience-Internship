@@ -1,6 +1,6 @@
 # Codomax Data Science Internship
 
-This repository contains my daily tasks, projects, and hands-on practice completed during my **Data Science Internship** at **Codomax Digital Solutions**. Throughout this internship, I am learning Python programming, NumPy, Pandas, data analysis, data cleaning, data visualization, and data handling through practical assignments.
+This repository contains my daily tasks, projects, and hands-on practice completed during my **Data Science Internship** at **Codomax Digital Solutions**. Throughout this internship, I learned Python programming, NumPy, Pandas, data analysis, data cleaning, data visualization, Git, and GitHub through practical assignments.
 
 ---
 
@@ -19,6 +19,7 @@ This repository contains my daily tasks, projects, and hands-on practice complet
 - ✅ Day 11 – Business Insights
 - ✅ Day 12 – Project Improvement
 - ✅ Day 13 – GitHub Project Upload
+- ✅ Day 14 – Final Submission
 
 ---
 
@@ -51,13 +52,14 @@ Day-10_Export_Data/
 Day-11_Business_Insights/
 Day-12_Project_Improvement/
 Day-13_GitHub/
+Day-14_Final_Submission/
 ```
 
 ---
 
 ## 🎯 Learning Outcomes
 
-Throughout this internship, I have gained practical experience in:
+Throughout this internship, I gained practical experience in:
 
 - Python Programming Fundamentals
 - NumPy Arrays and Operations
@@ -68,16 +70,17 @@ Throughout this internship, I have gained practical experience in:
 - Data Visualization using Matplotlib
 - Statistical Visualization using Seaborn
 - Exporting Processed Data
-- Generating Business Insights from Data
-- Improving Project Documentation and Readability
+- Generating Business Insights
+- Improving Project Documentation
 - Organizing Projects on GitHub
+- Professional Project Submission
 - Git & GitHub for Version Control
 
 ---
 
 ## 📌 Repository Purpose
 
-This repository documents my daily internship progress through practical tasks and exercises. Each folder contains Jupyter notebooks, datasets (where applicable), exported files, visualizations, and documentation related to the day's assignment.
+This repository documents my complete learning journey during the Data Science Internship. It includes daily assignments, Jupyter notebooks, datasets, visualizations, and documentation that demonstrate my practical skills in Python and data analysis.
 
 ---
 
@@ -89,4 +92,4 @@ Aspiring Data Scientist | Python Learner | Passionate about Data Analysis, Data 
 
 ---
 
-⭐ Thank you for visiting this repository! Feel free to explore my daily learning journey.
+⭐ Thank you for visiting this repository! Feel free to explore my internship projects and learning journey.
